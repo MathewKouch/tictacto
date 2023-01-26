@@ -1,2 +1,5 @@
 # tictacto
-my first python mini game project 
+My first python mini game and project.
+
+Play tic tac to on the terminal.
+
