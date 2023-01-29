@@ -9,7 +9,7 @@ from tttBoardFunctions import winningCheck,computerChoice,theBoardPrinted
 
 
     
-print('Welcome to my first shity game: Tic Tac Toe...toes?')
+print('Welcome to my first python mini game: Tic Tac To?')
 print(' 1 | 2 | 3 ')
 print('----------')
 print(' 4 | 5 | 6 ')
@@ -25,7 +25,7 @@ while play == 'Y':
 
 
     while play.upper() == 'Y':
-        print('Game on bitch! Lets play!')
+        print('Game on! Lets play!')
 
         winner = 0 # No winners at start of game
         turn = 0 # counts the number of turns of Player
